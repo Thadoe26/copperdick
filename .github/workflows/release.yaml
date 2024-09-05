@@ -1,4 +1,4 @@
-name: release
+name: Andrew Rodriguez 
 
 on:
   push:
@@ -52,4 +52,4 @@ jobs:
         with:
           body: ${{ steps.release_notes.outputs.release_notes }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} cash app $DoeHoe26 I need money 
